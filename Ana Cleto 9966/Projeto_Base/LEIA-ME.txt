@@ -1,3 +1,0 @@
-Completar js/app.js seguindo a ficha prática.
-Necessita de Internet para carregar Three.js.
-Abrir preferencialmente com Live Server ou python -m http.server 8000.
